@@ -1,4 +1,4 @@
-# EventBridge t0 Lambda - AWS SAM Application
+# EventBridge to Lambda - AWS SAM Application
 
 
 ## Overview
