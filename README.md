@@ -1,4 +1,7 @@
-# EventBridge + Lambda AWS SAM Application
+# EventBridge t0 Lambda - AWS SAM Application
+
+
+## Overview
 
 This project demonstrates how to create a serverless application using AWS SAM. It includes an AWS Lambda function triggered by an EventBridge rule. The Lambda function logs incoming events to AWS CloudWatch Logs.
 
@@ -47,7 +50,7 @@ Before you begin, ensure you have the following tools installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/insighture/eventbridge-lambda.git
 cd eventbridge-lambda
 ```
 
