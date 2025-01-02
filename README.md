@@ -32,19 +32,6 @@ Before you begin, ensure you have the following tools installed:
 
 ---
 
-## Project Structure
-
-```
-.
-├── hello_world
-│   ├── app.py             # Lambda function code
-│   └── __init__.py        # (Optional) Module initialization
-├── template.yaml          # AWS SAM template
-└── README.md              # This file
-```
-
----
-
 ## Setup Instructions
 
 ### 1. Clone the Repository
